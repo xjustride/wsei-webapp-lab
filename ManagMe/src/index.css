@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Testowy styl */
 body {
   @apply font-sans bg-black text-white flex items-center justify-center min-h-screen;
 }

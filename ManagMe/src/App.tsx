@@ -8,17 +8,16 @@ import { Container, Typography, Modal, Box, Button, CssBaseline, ThemeProvider, 
 import { motion } from 'framer-motion';
 import './index.css';
 
-// Tworzymy niestandardowy motyw MUI
 const theme = createTheme({
   palette: {
     primary: {
-      main: '#1976d2', // Kolor główny
+      main: '#1976d2', 
     },
     secondary: {
-      main: '#dc004e', // Kolor akcentu
+      main: '#dc004e', 
     },
     background: {
-      default: '#f5f5f5', // Tło aplikacji
+      default: '#f5f5f5', 
     },
   },
   typography: {
