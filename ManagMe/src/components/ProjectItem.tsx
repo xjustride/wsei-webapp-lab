@@ -1,6 +1,6 @@
 import React from 'react';
 import { Project } from '../models/Project';
-import { ListItem, ListItemText, ListItemSecondaryAction, IconButton, Chip, Avatar, Typography, Box } from '@mui/material'; // Dodaj Box do importu
+import { ListItem, ListItemText, ListItemSecondaryAction, IconButton, Chip, Avatar, Typography, Box } from '@mui/material';
 import EditIcon from '@mui/icons-material/Edit';
 import DeleteIcon from '@mui/icons-material/Delete';
 import { motion } from 'framer-motion';
